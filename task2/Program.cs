@@ -11,17 +11,18 @@ Console.Clear();
 Console.Write("введите число ");
 int count =0;
 int number =  int.Parse(Console.ReadLine());
-if (number < 0) number = number * (-1);
+if (number < 0) number = -number ;
 
 while (number >= count)
 {
-    Console.WriteLine(count - number);
+    Console.Write(count - number + " ");
     count++;
 }
 count = number-1;
+
 while (count >= 0)
 {
-    Console.WriteLine(number - count);
+    Console.Write(number - count + " ");
     count--;
 }
 
