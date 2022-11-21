@@ -1,0 +1,15 @@
+/Users/nazar/Desktop/Seminar1_C#/task1/bin/Debug/net7.0/task1
+/Users/nazar/Desktop/Seminar1_C#/task1/bin/Debug/net7.0/task1.deps.json
+/Users/nazar/Desktop/Seminar1_C#/task1/bin/Debug/net7.0/task1.runtimeconfig.json
+/Users/nazar/Desktop/Seminar1_C#/task1/bin/Debug/net7.0/task1.dll
+/Users/nazar/Desktop/Seminar1_C#/task1/bin/Debug/net7.0/task1.pdb
+/Users/nazar/Desktop/Seminar1_C#/task1/obj/Debug/net7.0/task1.csproj.AssemblyReference.cache
+/Users/nazar/Desktop/Seminar1_C#/task1/obj/Debug/net7.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nazar/Desktop/Seminar1_C#/task1/obj/Debug/net7.0/task1.AssemblyInfoInputs.cache
+/Users/nazar/Desktop/Seminar1_C#/task1/obj/Debug/net7.0/task1.AssemblyInfo.cs
+/Users/nazar/Desktop/Seminar1_C#/task1/obj/Debug/net7.0/task1.csproj.CoreCompileInputs.cache
+/Users/nazar/Desktop/Seminar1_C#/task1/obj/Debug/net7.0/task1.dll
+/Users/nazar/Desktop/Seminar1_C#/task1/obj/Debug/net7.0/refint/task1.dll
+/Users/nazar/Desktop/Seminar1_C#/task1/obj/Debug/net7.0/task1.pdb
+/Users/nazar/Desktop/Seminar1_C#/task1/obj/Debug/net7.0/task1.genruntimeconfig.cache
+/Users/nazar/Desktop/Seminar1_C#/task1/obj/Debug/net7.0/ref/task1.dll
