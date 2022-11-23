@@ -3,8 +3,8 @@ Console.Write("введите число ");
 int number =  int.Parse(Console.ReadLine());
 int square = number * number;
 
-
 Console.WriteLine($"квадрат введенного числа = {square}");
+Console.WriteLine();
 
 // Задача №1. Напишите программу, которая на вход принимает два числа и проверяет, является ли первое число квадратом второго.
 // a = 25, b = 5 -> да 
